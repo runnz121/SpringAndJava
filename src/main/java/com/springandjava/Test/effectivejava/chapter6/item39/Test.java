@@ -1,4 +1,4 @@
-package com.springandjava.Test.effectivejava.chatper6.item39;
+package com.springandjava.Test.effectivejava.chapter6.item39;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
