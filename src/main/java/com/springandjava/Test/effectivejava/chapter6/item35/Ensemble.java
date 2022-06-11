@@ -1,4 +1,4 @@
-package com.springandjava.Test.effectivejava.chatper6.item35;
+package com.springandjava.Test.effectivejava.chapter6.item35;
 
 public enum Ensemble {
 

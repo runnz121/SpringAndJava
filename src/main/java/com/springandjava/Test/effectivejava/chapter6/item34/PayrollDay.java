@@ -1,4 +1,4 @@
-package com.springandjava.Test.effectivejava.chatper6.item34;
+package com.springandjava.Test.effectivejava.chapter6.item34;
 
 public enum PayrollDay {
     // MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY(PayType.WEEKEND), SUNDAY(PayType.WEEKEND);

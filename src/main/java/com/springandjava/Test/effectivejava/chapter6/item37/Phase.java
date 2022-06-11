@@ -1,4 +1,4 @@
-package com.springandjava.Test.effectivejava.chatper6.item37;
+package com.springandjava.Test.effectivejava.chapter6.item37;
 
 import static java.util.stream.Collectors.*;
 

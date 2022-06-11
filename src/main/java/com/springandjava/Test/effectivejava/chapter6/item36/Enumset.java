@@ -1,4 +1,4 @@
-package com.springandjava.Test.effectivejava.chatper6.item36;
+package com.springandjava.Test.effectivejava.chapter6.item36;
 
 import java.util.EnumSet;
 import java.util.Set;

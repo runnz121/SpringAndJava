@@ -1,4 +1,4 @@
-package com.springandjava.Test.effectivejava.chatper6.item36;
+package com.springandjava.Test.effectivejava.chapter6.item36;
 
 public class Text_old {
     public static final int STYLE_BOLD = 1 << 0;
