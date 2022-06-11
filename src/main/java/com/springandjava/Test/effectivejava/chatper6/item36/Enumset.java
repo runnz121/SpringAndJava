@@ -8,6 +8,6 @@ public class Enumset {
 
     public void applyStyles(Set<Style> styles){}
 
-    EnumSet.of(Style.BOLD, Style.Italic)
+  //  EnumSet.of(Style.BOLD, Style.Italic)
 
 }

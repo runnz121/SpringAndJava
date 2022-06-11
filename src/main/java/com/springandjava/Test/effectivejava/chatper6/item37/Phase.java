@@ -1,5 +1,7 @@
 package com.springandjava.Test.effectivejava.chatper6.item37;
 
+import static java.util.stream.Collectors.*;
+
 import java.util.EnumMap;
 import java.util.Map;
 import java.util.stream.Stream;
