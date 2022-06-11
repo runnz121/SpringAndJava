@@ -16,14 +16,12 @@ public class deadLock {
         T2.start();
     }
 
-
     /**
      * 1. synchronized로 각 두 객체에 대해 동시에 쓰레드 사용 불가(쓰레드 동기화) -> 상호 배제 (synchronized -> 객체에 락을 걸음)
      * 2. thread 1 -> object 1 락 갖고있음, thread2 -> object 2 락 갖고 있으면서 object1 락 획득하길 원함 -> 점유 대기
      * 3. thread 우선순위는 동일 셋팅 -> 비선점
      * 4. first Thread는 object2 객체의 락 대기, Second Thread는 Object1 객체의 락 대기 -> 환형대기
      */
-
     private static class ThreadDemo1 extends Thread {
         public void run() {
             synchronized (Lock1) {
